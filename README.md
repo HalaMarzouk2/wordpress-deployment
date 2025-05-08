@@ -8,26 +8,26 @@
 
 -Scalable architecture
 # Deployment Components
-Persistent Volume (PV) and Persistent Volume Claim (PVC)
+-Persistent Volume (PV) and Persistent Volume Claim (PVC)
 
-Ensures data persistence for WordPress
+  Ensures data persistence for WordPress
 
-Retains data even if pods are restarted or rescheduled
+  Retains data even if pods are restarted or rescheduled
 
-Secrets
+-Secrets
 
-Securely stores sensitive information (database credentials)
+  Securely stores sensitive information (database credentials)
 
-Prevents hardcoding of passwords in configuration files
+  Prevents hardcoding of passwords in configuration files
 
-MySQL Deployment
+-MySQL Deployment
 
-Database backend for WordPress
+  Database backend for WordPress
 
-Uses persistent storage
+  Uses persistent storage
 
-WordPress Deployment
+-WordPress Deployment
 
-Frontend web application
+  Frontend web application
 
-Connects to MySQL database
+  Connects to MySQL database
