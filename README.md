@@ -1,12 +1,12 @@
 # wordpress-deployment
 # Project Overview
-This repository contains Kubernetes manifests to deploy a WordPress site with the following features:
+-This repository contains Kubernetes manifests to deploy a WordPress site with the following features:
 
-Persistent storage for WordPress data
+-Persistent storage for WordPress data
 
-Secure management of sensitive information using Kubernetes Secrets
+-Secure management of sensitive information using Kubernetes Secrets
 
-Scalable architecture
+-Scalable architecture
 # Deployment Components
 Persistent Volume (PV) and Persistent Volume Claim (PVC)
 
